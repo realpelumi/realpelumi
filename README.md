@@ -71,3 +71,10 @@ _“Code is more than syntax — it’s creativity, logic, and impact combined.�
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
+
+---
+
+### GitHub Stats
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=realpelumi&" alt="realpelumi" />
+</p>
