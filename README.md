@@ -1,41 +1,44 @@
-# 💫 About Me:
-# 👋 Hi, I'm **Pelumi Ale**  
-💻 **Full Stack Developer | DevOps Enthusiast | Tech Innovator**
+# Pelumi Ale
 
-I’m a passionate full stack developer who loves building scalable, secure, and user-centered digital products.  
-From designing intuitive interfaces with **React** to building powerful backends with **Node.js** and **MySQL**, I take pride in delivering clean, efficient, and maintainable solutions.  
+**Software Engineer | DevOps Enthusiast | Tech Innovator**
 
----
-
-### 🚀 What I Do
-- 💡 Develop full-featured web apps using **React**, **Node.js**, and **Express**
-- 🔧 Work with **APIs**, **authentication**, and **payment gateway integrations**
-- ☁️ Explore **DevOps**, **Docker**, and **cloud deployment automation**
-- 🧩 Collaborate on open-source and personal projects that push innovation forward  
+I am a software engineer dedicated to building scalable, secure, and user-centered digital products. I specialize in designing intuitive interfaces with **React** and **Next.js**, and developing robust backends with **Node.js** (**NestJS**) and **Python** (**FastAPI**). My focus is on delivering clean, efficient, and maintainable solutions deployed across leading cloud platforms like **AWS**, **GCP**, and **Azure**.
 
 ---
 
-### 🛠️ Tech Stack
-**Frontend:** React, HTML5, CSS3, JavaScript (ES6+)  
-**Backend:** Node.js, Express.js  
-**Database:** MySQL  
-**Tools & DevOps:** Git, Docker, CI/CD, Linux, VS Code  
+### Professional Expertise
+
+- Developing comprehensive web applications utilizing **React**, **Next.js**, **Node.js**, and **NestJS**
+- Implementing **RESTful** and **GraphQL APIs**, **authentication systems**, and **payment integrations**
+- Applying **DevOps** principles and managing cloud infrastructure on **AWS**, **GCP**, and **Azure**
+- Architecting robust data layers utilizing **MySQL**, **PostgreSQL**, **MongoDB**, and **Prisma ORM**
 
 ---
 
-### 🌍 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/realpelumiale)  
-- 🐦 [Twitter](https://twitter.com/realpelumiale)  
-- 🌐 [Portfolio](https://pelumiale.dev)  
-- ✉️ **Email:** pelumi@pelumiale.dev  
+### Technical Proficiency
+
+**Frontend:** React, Next.js, HTML5, CSS3, JavaScript (ES6+)  
+**Backend:** Node.js, Express.js, NestJS, Python (FastAPI), GraphQL  
+**Database & ORM:** MySQL, Prisma, PostgreSQL, MongoDB
+**Cloud & DevOps:** AWS, GCP, Azure, Docker, CI/CD, Git, Linux
 
 ---
 
-⭐ *“Code is more than syntax — it’s creativity, logic, and impact combined.”*  
+### Contact
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/realpelumiale) [LinkedIn](https://linkedin.com/in/realpelumiale)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/realpelumiale) [Twitter](https://twitter.com/realpelumiale)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=google-chrome&logoColor=white)](https://pelumiale.dev) [Portfolio](https://pelumiale.dev)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ale@pelumiale.dev) **Email:** [ale@pelumiale.dev](mailto:ale@pelumiale.dev)
 
 ---
 
-# 💻 Tech Stack:
+_“Code is more than syntax — it’s creativity, logic, and impact combined.”_
+
+---
+
+### Technologies
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -61,16 +64,3 @@ From designing intuitive interfaces with **React** to building powerful backends
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=realpelumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=realpelumi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realpelumi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=realpelumi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
