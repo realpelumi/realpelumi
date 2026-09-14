@@ -29,7 +29,7 @@ I am a software engineer dedicated to building scalable, secure, and user-center
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/realpelumiale) [LinkedIn](https://linkedin.com/in/realpelumiale)
 - [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/realpelumiale) [Twitter](https://twitter.com/realpelumiale)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=google-chrome&logoColor=white)](https://pelumiale.dev) [Portfolio](https://pelumiale.dev)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ale@pelumiale.dev) **Email:** [ale@pelumiale.dev](mailto:ale@pelumiale.dev)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hello@pelumiale.dev) **Email:** [hello@pelumiale.dev](mailto:hello@pelumiale.dev)
 
 ---
 
